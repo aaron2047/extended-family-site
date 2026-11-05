@@ -18,8 +18,6 @@ a{color:var(--green)}
 .back{font-size:14px;text-decoration:none;font-weight:600;white-space:nowrap}
 .back:hover{text-decoration:underline}
 
-.draft-banner{background:#fff4d6;border-bottom:2px solid #e0a800;color:#4a3800;font-size:14px;padding:12px 0}
-mark{background:#fff0a8;color:#222;padding:0 3px;border-radius:2px}
 
 .doc{padding-top:48px;padding-bottom:30px;max-width:860px}
 .eyebrow{font-size:12px;letter-spacing:.14em;font-weight:700;color:#00868e;text-transform:uppercase;margin:0 0 8px}
